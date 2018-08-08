@@ -1,0 +1,5 @@
+- [x] Create graphql server.
+- [x] Create docker image containing server.
+- [ ] Create Terraform environment
+- [ ] Create script to upload docker image to AWS
+- [ ] Automate this script within CI environment
