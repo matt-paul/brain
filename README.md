@@ -1,5 +1,8 @@
 - [x] Create graphql server.
 - [x] Create docker image containing server.
 - [ ] Create Terraform environment
+    - [x] Store state file in S3 bucket
+    - [ ] VPC with public subnet
+    - [ ] Internet gateway
 - [ ] Create script to upload docker image to AWS
 - [ ] Automate this script within CI environment
