@@ -14,3 +14,8 @@ terraform {
     region = "eu-west-2"
   }
 }
+
+resource "aws_ecs_service" "brain" {
+  name = "brain"
+  task_definition = "" #The family and revision (family:revision) or full ARN of the task definition that you want to run in your service.
+}
