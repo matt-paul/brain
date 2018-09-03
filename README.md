@@ -8,7 +8,7 @@
     - [ ] Set up IAM roles and instance profile.
     - [ ] Set up an ALB.
     - [ ] Set up an Autoscaling group and launch configuration.
-    - [ ]Create the ECS cluster.
-    - [ ]Create the Task definition and service to run on the ECS cluster.
+    - [ ] Create the ECS cluster.
+    - [ ] Create the Task definition and service to run on the ECS cluster.
     - [ ] Create script to upload docker image to AWS
     - [ ] Automate this script within CI environment
